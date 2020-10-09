@@ -16,4 +16,4 @@ Abaixo vemos o diagrama de conexão do sensor LIDAR VL53L0X com um arduino UNO:
 
 <img src="images/LIDAR_VL53L0X_UNO.jpg" />
 
-<img src="images/UNO_US.jpg" />
+<img src="images/US_UNO.jpg" />
