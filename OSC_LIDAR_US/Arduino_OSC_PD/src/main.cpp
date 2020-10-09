@@ -38,7 +38,8 @@ de placa (Por exemplo UNO ou Leonardo)
 
 #ifdef ULTRASOM
   #include <Ultrasonic.h>
-  Ultrasonic US(2);
+  Ultrasonic US(2,3); //Sensor com pinos trigger e echo (ex.: HC-SR04)
+  //Ultrasonic US(2); //Sensor menos comum, sem trigger (ex.: Seedstudio Grove)
 #endif
 
 #ifdef LIDAR
