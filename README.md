@@ -7,6 +7,7 @@ Esse projeto é composto de vários exemplos, com múltiplos sensores e diferent
 Nessa pasta temos um exemplo que utiliza um Arduino e um sensor de distância.
 O código permite escolher entre dois tipos: LIDAR (Light Detection And Ranging) ou Ultrassônico.
 O Arduino lê o valor detectado pelo sensor e envia esse valor dinâmico para controlar objetos no PD (Pure Data, Purr Data ou PD Extended).
+O patch incluso do PD utiliza um instrumento virtual baseado em arquivo .sf2 (SoundFont), e gera sons a partir das notas acionadas por meio dessa interface.
 
 <img src="images/OSC_SLIP.jpg" />
 
