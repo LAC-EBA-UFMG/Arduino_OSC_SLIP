@@ -13,7 +13,7 @@ O patch incluso do PD utiliza um instrumento virtual baseado em arquivo .sf2 (So
 
 A pasta OSC_LIDAR_US contém dois diretórios:
 - **Arduino_OSC_PD:** Projeto a ser compilado no Visual Studio Code, utilizando a plataforma colaborativa PlatformIO IDE (aqui, configurada para resolver automaticamente as dePendências de bibliotecas necessárias neste projeto). 
-- **Patch_PD:** Arquivo do PD que recebe mensagens OSC e controla o um instrumento cujo pitch das notas MIDI são calculadas a partir dos valores medidos pelo sensor de distância.
+- **Patch_PD:** Arquivo do PD que recebe mensagens OSC e controla um instrumento virtual cujo pitch das notas MIDI são calculadas a partir dos valores medidos pelo sensor de distância.
 
 Abaixo vemos o diagrama de conexão do sensor LIDAR VL53L0X com um arduino UNO:
 
