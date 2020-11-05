@@ -1,9 +1,9 @@
 # Arduino_OSC_SLIP
 
-<pre>Este experimento faz parte do projeto de extensão "Repositório de código do LAC".
+<pre>Este experimento faz parte do Projeto de Extensão "Repositório de Código do LAC".
 Um projeto que visa disponibilizar código e documentação de referência para os desenvolvimentos
-do Laboratório de Artes Computacionais da Escola de Belas Artes da UFMG,
-estendendo o acesso desse material à comunidade geral de software e hardware livres.</pre>
+no Laboratório de Artes Computacionais da Escola de Belas Artes da UFMG,
+estendendo o acesso a esse material à comunidade geral de software e hardware livres.</pre>
 
 Este projeto permite enviar mensagens OSC (Open Sound Control) a partir de um Arduino via SLIP (Serial Line Internet Protocol).
 
