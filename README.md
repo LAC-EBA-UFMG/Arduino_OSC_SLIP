@@ -2,7 +2,7 @@
 
 <pre>Este experimento faz parte do Projeto de Extensão "Repositório de Conhecimento do LAC".
 Registro SIEX: 403654.
-Um projeto que visa disponibilizar código e documentação de referência para os desenvolvimentos
+Um projeto que disponibiliza código e documentação de referência para os desenvolvimentos
 no Laboratório de Artes Computacionais da Escola de Belas Artes da UFMG,
 estendendo o acesso a esse material à comunidade geral de software e hardware livres.</pre>
 
