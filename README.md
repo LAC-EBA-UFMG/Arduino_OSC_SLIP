@@ -7,9 +7,6 @@ estendendo o acesso desse material à comunidade geral de software e hardware li
 
 Este projeto permite enviar mensagens OSC (Open Sound Control) a partir de um Arduino via SLIP (Serial Line Internet Protocol).
 
-O intuito aqui é apresentar vários exemplos, com múltiplos sensores e diferentes características.
-Os exemplos estão divididos em pastas.
-
 ## OSC_LIDAR_US
 Nessa pasta temos um exemplo que utiliza um Arduino e um sensor de distância.
 O código permite escolher entre dois tipos: LIDAR (Light Detection And Ranging) ou Ultrassônico.
