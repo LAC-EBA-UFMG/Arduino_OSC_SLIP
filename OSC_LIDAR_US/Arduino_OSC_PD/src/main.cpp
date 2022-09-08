@@ -89,11 +89,12 @@ Leitura da distância via Ultrasom ou LIDAR
 #endif
 
 
-/*=========================================
+/*================================================
 Criando um grupo de mensagens e populando
-com as mensagens com os dados a serem enviados
-e enviando nos endereços via SLIP
-==========================================*/
+as mensagens com os dados a serem enviados.
+O valor de distância é enviado como um argumento 
+no endereço(Address Pattern) /sensor via SLIP
+=================================================*/
 
   OSCBundle b;
   if(validaPack(Dist)){
